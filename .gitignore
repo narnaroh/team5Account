@@ -24,3 +24,8 @@ hs_err_pid*
 replay_pid*
 
 .metadata/
+account/.classpath
+account/.project
+account/.settings/org.eclipse.core.resources.prefs
+account/.settings/org.eclipse.jdt.core.prefs
+account/.gitignore
