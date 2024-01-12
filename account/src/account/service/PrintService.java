@@ -4,12 +4,12 @@ public interface PrintService {
 
 	void printMainMenu();
 
-	void AddMoney();
+	void printProfitMenu();
 
-	void disMoney();
+	void printExpenseMenu();
 
-	void printMoney();
+	void printManager();
 
-	void reviseMoney();
+
 
 }
